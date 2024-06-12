@@ -3,8 +3,6 @@ Basic Network Intrusion Detection System
 
 Snort: Your Free and Open-Source Network Intrusion Detection System (NIDS)
 
-Sure, here is the corrected and optimized version:
-
 ---
 
 # Snort Installation and Configuration on Ubuntu
